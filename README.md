@@ -73,4 +73,4 @@ $ yarn test
 ```
 
 
-Feito com ♥ por Jonathan Pauluze
+<p align="center">Feito com ♥ por <a href="https://linkedin.com/in/jonathanpauluze" target="_blank">Jonathan Pauluze</a></p>
