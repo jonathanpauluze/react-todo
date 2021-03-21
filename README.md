@@ -34,6 +34,7 @@ Esta é uma pequena aplicação de to-do list para treinar um pouco mais sobre 
 
 ## :rocket: Tecnologias e Ferramentas
 - [React](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org)
 
 ## :wrench: Como rodar o projeto
 
@@ -53,20 +54,22 @@ $ gh repo clone jonathanpauluze/react-todo
 
 ### Instale as dependências
 ```bash
-## Acesse o diretório do projeto
+# Acesse o diretório do projeto
 $ cd react-todo
 
 # Instale as dependências
 $ yarn
+```
 
-# Inicie o servidor de desenvolvimento
+### Inicie a aplicação
+```bash
 $ yarn dev
 ```
 
 ### Teste a aplicação
 Para rodar os testes (utilizados na correção do desafio) execute o comando
 ```bash
-yarn test
+$ yarn test
 ```
 
 
